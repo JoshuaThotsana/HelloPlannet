@@ -13,6 +13,8 @@
 		3A62564F24DAC503007DF340 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A62564E24DAC503007DF340 /* Assets.xcassets */; };
 		3A62565224DAC503007DF340 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A62565124DAC503007DF340 /* Preview Assets.xcassets */; };
 		3A62565524DAC503007DF340 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A62565324DAC503007DF340 /* LaunchScreen.storyboard */; };
+		3A62565D24DAD15E007DF340 /* PlannetModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A62565C24DAD15E007DF340 /* PlannetModule.swift */; };
+		3A62566124DAD232007DF340 /* PlannetsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A62566024DAD232007DF340 /* PlannetsController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		3A62565124DAC503007DF340 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3A62565424DAC503007DF340 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A62565624DAC503007DF340 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A62565C24DAD15E007DF340 /* PlannetModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlannetModule.swift; sourceTree = "<group>"; };
+		3A62566024DAD232007DF340 /* PlannetsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlannetsController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				3A62564824DAC501007DF340 /* AppDelegate.swift */,
 				3A62564A24DAC501007DF340 /* SceneDelegate.swift */,
 				3A62564C24DAC501007DF340 /* ContentView.swift */,
+				3A62565C24DAD15E007DF340 /* PlannetModule.swift */,
+				3A62566024DAD232007DF340 /* PlannetsController.swift */,
 				3A62564E24DAC503007DF340 /* Assets.xcassets */,
 				3A62565324DAC503007DF340 /* LaunchScreen.storyboard */,
 				3A62565624DAC503007DF340 /* Info.plist */,
@@ -149,6 +155,8 @@
 				3A62564924DAC501007DF340 /* AppDelegate.swift in Sources */,
 				3A62564B24DAC501007DF340 /* SceneDelegate.swift in Sources */,
 				3A62564D24DAC501007DF340 /* ContentView.swift in Sources */,
+				3A62566124DAD232007DF340 /* PlannetsController.swift in Sources */,
+				3A62565D24DAD15E007DF340 /* PlannetModule.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
